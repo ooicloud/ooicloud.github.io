@@ -14,6 +14,7 @@ Contact
 
 **Bold** and _Italic_ and `Code` text
 
-['Pangeo'](http://pangeo.io/)
+!['Pangeo'](http://pangeo.io/)
 
 ```
+[`git-crypt`](https://www.agwa.name/projects/git-crypt/). `git-crypt` is used
