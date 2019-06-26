@@ -1,20 +1,6 @@
 # Welcome to the OOICloud Organization website
 ### OOICloud 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Related Projects
 
-```markdown
-About
-
-- Bulleted
-- List
-
-Contact
-
-**Bold** and _Italic_ and `Code` text
-
-!['Pangeo'](http://pangeo.io/)
-
-```
-[`git-crypt`](https://www.agwa.name/projects/git-crypt/). `git-crypt` is used
+- [Pangeo](http://pangeo.io/): main website for the Pangeo project
