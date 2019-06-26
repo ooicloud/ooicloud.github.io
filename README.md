@@ -14,5 +14,5 @@ Contact
 
 **Bold** and _Italic_ and `Code` text
 
-![http://pangeo.io/](Pangeo) and ![Image](src)
+['Pangeo'](http://pangeo.io/)
 ```
