@@ -1,7 +1,7 @@
 # Welcome to the OOICloud Organization website
 ## About
 ## Contact
-- [admin](admin@ooicloud.org)
+- <admin@ooicloud.org>
 ### People
 - [Tim Crone](https://github.com/tjcrone)
 - [Dax Soule](https://github.com/daxsoule) 
