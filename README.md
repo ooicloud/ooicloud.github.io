@@ -4,6 +4,8 @@ The [OOICloud Project](https://github.com/ooicloud) is working to make data from
 
 With a generous gift from the [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) program, OOICloud resides in the [Azure Cloud](https://azure.microsoft.com), and currently contains all of the data from the [OOI HD video camera](https://oceanobservatories.org/instrument-class/camhd) deployed at a hydrothermal vent in the caldera of Axial Volcano, a submarine volcano on the Juan de Fuca Ridge. 
 
+OOICloud will begin incorporating other OOI datasets in the coming year, starting with data from the geodetic instruments and the echosounders.
+
 ## Get started!
 
 During the week of AGU, anyone can log in to the OOICloud Pangeo and start working with OOI HD video data. Here are the steps for getting started:
