@@ -13,11 +13,11 @@ During the week of AGU, anyone can log in to the OOICloud Pangeo and start worki
     - ```git clone https://github.com/ooicloud/ooi-pangeo.git```
  3. Run one of the examples in notebooks/camhd! The image_sliders notebook is a fun one.
 
-After AGU, you will need to join the OOICloud GitHub organization to have access to ooi.pangeo.org. We are exploring other potential access models as well. To join OOICloud, send an email to pangeo@ooicloud.org with your GitHub username.
+After AGU, you will need to join the OOICloud GitHub organization to have access to ooi.pangeo.org. We are exploring other potential access models as well. To join OOICloud, send an email to [pangeo@ooicloud.org](mailto:pangeo@ooicloud.org) with your GitHub username.
 
 ## Contact
 
- - <admin@ooicloud.org>
+ - <info@ooicloud.org>
 
 ## People
 
