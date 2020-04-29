@@ -8,14 +8,13 @@ OOICloud will begin incorporating other OOI datasets in the coming year, startin
 
 ## Get started!
 
-During the week of AGU, anyone can log in to the OOICloud Pangeo and start working with OOI HD video data. Here are the steps for getting started:
+Anyone who joins the OOICloud GitHub organization can log in to the OOICloud Pangeo and start working with OOI HD video data! Here are the steps for getting started:
 
+ 0. Join the OOICloud GitHub org. Request an invitation by sending an email to [pangeo@ooicloud.org](mailto:pangeo@ooicloud.org) and include your GitHub username.
  1. Log in to [ooi.pangeo.io](https://ooi.pangeo.io) using your GitHub credentials. Choose a minimal machine until you determine that you need more compute power.
  2. Open a terminal window in Jupyterlab and clone the examples repo:
     - ```git clone https://github.com/ooicloud/ooi-pangeo.git```
  3. Run one of the examples in notebooks/camhd! The image_sliders notebook is a fun one.
-
-After AGU, you will need to join the OOICloud GitHub organization to have access to ooi.pangeo.org. We are exploring other potential access models as well. To join OOICloud, send an email to [pangeo@ooicloud.org](mailto:pangeo@ooicloud.org) with your GitHub username.
 
 ## Contact
 
